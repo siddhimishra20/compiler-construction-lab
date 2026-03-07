@@ -10,7 +10,7 @@ The compiler is implemented incrementally, with each stage building upon the pre
 
 The compiler processes a source program through the following stages:
 
-![Compiler Pipeline](compiler-pipeline.svg)
+![Compiler Pipeline](compiler_pipeline.svg) 
 
 Each stage contributes to transforming high-level source code into a lower-level representation suitable for execution.
 
